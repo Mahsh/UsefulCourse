@@ -7,4 +7,4 @@ A course given by a CMU teacher named Eric Xing. [link](http://www.cs.cmu.edu/~e
 
 - Neural network and Deep learning.
 
-A book writtern in Chinese. [link](https://nndl.github.io/)
+A book written in Chinese. [link](https://nndl.github.io/)
