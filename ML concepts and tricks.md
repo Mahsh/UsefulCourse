@@ -6,3 +6,11 @@
 负梯度方向是使函数值下降最快的方向，在迭代的每一步，以负梯度方向更新x的值，从而达到减少函数值的目的。
 
 [一个数学的推导的简单理解](https://blog.csdn.net/wgdzz/article/details/48804599)
+
+### Batch Gradient Descent
+### Stochastic Gradient Descent
+### Mini-batch Gradient descent
+
+## How to avoid overfit?
+- regularization.
+- early stopping.
