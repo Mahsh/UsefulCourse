@@ -2,7 +2,7 @@
 This repository collects some useful information for machine learning.
 
 ## Some Personal Summaries on ML
-[Geometric understanding of Perceptron](https://mahsh.github.io//MLdocs/Perceptron.pdf)
+[Geometric understanding of Perceptron](https://mahsh.github.io/UsefulCourse/MLdocs/Perceptron.pdf)
 
 - Probabilistic Graphical model.
 
