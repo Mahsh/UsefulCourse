@@ -15,6 +15,6 @@ Two basic courses conducted by Prof. Hsuan-Tien.[link](https://www.csie.ntu.edu.
 
 - Neural network and Deep learning.
 
-A book written in Chinese. [link](https://nndl.github.io/)
+A book written by Dr. Xipeng Qiu in Chinese. [link](https://nndl.github.io/)
 
 
