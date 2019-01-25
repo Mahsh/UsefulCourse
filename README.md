@@ -10,6 +10,7 @@ This repository collects some useful information for machine learning.
 A course given by a CMU teacher named Eric Xing. [link](http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html)
 
 - Machine Learning Foundations and Machine Learning Techniques 
+
 Two basic courses conducted by Prof. Hsuan-Tien.[link](https://www.csie.ntu.edu.tw/~htlin/)
 
 - Neural network and Deep learning.
